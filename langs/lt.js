@@ -6,7 +6,7 @@ if(typeof langs == "undefined") {
 langs.lt = {
     'ikaeasy_link': 'https://www.facebook.com/ikariam.easy',
     'movements':{
-        all: 'all',
+        all: 'visi',
         transport: 'gabenti prekes',
         plunder: 'plėšti',
 //I hope lithuanian letters ąčęėįšųū will work. :)
@@ -16,7 +16,7 @@ langs.lt = {
         defend: 'ginti miestą',
         defend_port: 'ginti uostą',
         occupy: 'okupuoti',
-        trade: 'trade'
+        trade: 'mainytis'
     },
     'char_day': 'd',
     'char_hour': 'h',
@@ -31,7 +31,7 @@ langs.lt = {
     'days': "dienų(dienos)",
     'months': "mėnesiai(uo)",
     'years': "metai",
-    'MessagePlaceholder': "Click CTRL + Enter to send message",
+    'MessagePlaceholder': "Spausk CTRL + Enter išsiųsti žinutę.",
     'ConfirmDowngrade': "Patvirtink griovimą",
     'Circular_message': "Siųsti masinę žinutę",
     'Ally_members': "Aljansas",
